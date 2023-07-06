@@ -1,0 +1,11 @@
+#seccionPpal{
+    display: block;
+    margin: auto;
+    width: 60%;
+    border: 1px solid;
+    border-color:brown;
+}
+
+#frmPruebas{
+    display: block;
+}
